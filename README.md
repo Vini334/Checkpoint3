@@ -36,9 +36,9 @@
 
 #### 📊 Consultas específicas
 - `GET /profissionais/{id}/stats`
-- `GET /pacientes/{id}/consultas?status={AGENDADA, REALIZADA, CANCELADA}&data_de=24-04-2025&data_ate=25-04-2025`
-- `GET /profissionais/{id}/consultas?status={AGENDADA, REALIZADA, CANCELADA}&data_de=24-04-2025&data_ate=25-04-2025`
-- `GET /consultas?status={AGENDADA, REALIZADA, CANCELADA}&data_de=24-04-2025&data_ate=25-04-2025`
+- `GET /pacientes/{id}/consultas?status={AGENDADA, REALIZADA, CANCELADA}`
+- `GET /profissionais/{id}/consultas?status={AGENDADA, REALIZADA, CANCELADA}`
+- `GET /consultas?status={AGENDADA, REALIZADA, CANCELADA}`
 
 ---
 
